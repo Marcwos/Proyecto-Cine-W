@@ -1,4 +1,4 @@
-# CineApp
+# Cine W
 
 ## Dependencias utilizadas:
 1. CustomTkinter
